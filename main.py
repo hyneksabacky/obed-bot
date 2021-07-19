@@ -1,5 +1,4 @@
-
-#!/bin/python3
+#!/heroku/python
 import os
 import discord
 import random
